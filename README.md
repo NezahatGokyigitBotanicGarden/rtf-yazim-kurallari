@@ -1,4 +1,1 @@
-# CV
- Ogün Demir
-
- https://demirogun.github.io/cv/
+# Resimli Türkiye Florası Yazım Kuralları
